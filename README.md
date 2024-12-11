@@ -54,7 +54,7 @@ Implement ranking techniques with Gradient Boosting models, ideal for tasks like
 [GBM Ranking Techniques Notebook](https://colab.research.google.com/drive/1KmCOLFsQBqrwtmJC0KdPVxZyIEuxOecq?usp=sharing)
 
 ---
-Video [Link](https://studio.youtube.com/channel/UCOQEVKW90WjoLMlLumOMRaw)
+Video [Link](https://www.youtube.com/playlist?list=PLGHkLcp2I_S-49dlErD1mJjmZq0O3dwtI)
 ---
 ## How to Use
 1. Click on any notebook link to open it in Google Colab.
